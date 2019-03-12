@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AR_BASEONLOCATION</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyD50IyOQVe3VEY3KuWFeLOpnib_Rd5r89o</string>
+    <string name="geojson_url">http://13.209.129.200/Tmap2.php</string>
+</resources>
